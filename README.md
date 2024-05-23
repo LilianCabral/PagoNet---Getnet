@@ -3,7 +3,7 @@ TI QUALIDADE
 Responda as questões a seguir:  
 
 1) O cliente adquiriu um novo modelo de máquina de cartão de crédito e ela aceita as
-2) 
+ 
 bandeiras Visa, Master, Elo, Amex e Hiper e executa duas operações para cada
 
 bandeira débito e crédito. Quantos testes serão necessários para validação dessa
