@@ -216,7 +216,7 @@ A heurística do preenchimento de formulários é uma técnica prática e eficaz
 
 dos formulários na interface do usuário. 
 
-# Front-End: Heurística de Feedback Imediato:
+Front-End: Heurística de Feedback Imediato:
 
 Objetivo: Fornecer feedback instantâneo e claro ao usuário.
 
@@ -229,7 +229,7 @@ Explicação: Esta heurística se foca em assegurar que os dados no sistema perm
 
 como transações de banco de dados e atualizações de dados.
 
-# Back-End: Heurística de Integridade de Dados:
+Back-End: Heurística de Integridade de Dados:
 
 Objetivo: Manter a consistência e a precisão dos dados após operações de backend.
 
@@ -248,7 +248,8 @@ Resposta:
 
 e aplicações mobile:
 
-# Desktop e Web:
+Desktop e Web:
+
 Ranorex Studio: Ferramenta completa e fácil de usar para testes de ponta a ponta em desktop e web.
 
 TestComplete: Plataforma comercial para automatizar testes de desktop, celular e aplicações web.
@@ -256,7 +257,7 @@ TestComplete: Plataforma comercial para automatizar testes de desktop, celular e
 Telerik Test Studio: Ferramenta abrangente para teste funcional de UI, teste de performance, teste exploratório, teste mobile, entre outros.
 
 
-# APIs:
+APIs:
 
 Katalon Platform: Plataforma de automação de testes com tecnologia de IA para testes de API automatizados.
 
@@ -265,7 +266,7 @@ Postman: Ferramenta para testes de API com suporte para Windows, Linux e MacOS.
 vREST: Oferece solução online para testes automatizados, simulação e gravação automatizada de APIs.
 
 
-# Mobile:
+Mobile:
 
 Appium: Ferramenta de automação open source crucial para aplicações móveis nativas, híbridas e web mobile.
 
