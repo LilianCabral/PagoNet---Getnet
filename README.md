@@ -74,8 +74,8 @@ Essa abordagem garante que a máquina de cartão de crédito será testada de fo
 as combinações de bandeira e operação.
 
 
-3)  A bandeira Visa disponibilizou um novo range de bin´s no mercado que possui seis
-4)  
+2)  A bandeira Visa disponibilizou um novo range de bin´s no mercado que possui seis
+ 
 dígitos 232425 a 232460. Quais os testes deverão ser feitos desse range de bins para
 
 confirmar que está funcionando? 
@@ -123,7 +123,7 @@ Os testes devem incluir:
 = Valor imediatamente fora do range acima do máximo: 232461
 
 
-4) Cite uma abordagem desenvolvimento ágil e explique-a, responda em suas palavras.
+3) Cite uma abordagem desenvolvimento ágil e explique-a, responda em suas palavras.
    
 Resposta:
 
@@ -164,7 +164,7 @@ flexível do Kanban com os princípios ágeis, proporcionando uma maneira eficaz
 colaboração e alcançar resultados de alta qualidade de forma iterativa e incremental.
 
 
-6) O que é CI/CD?
+4) O que é CI/CD?
    
 Resposta:
 
@@ -181,7 +181,7 @@ CI se concentra na integração de código e identificação precoce de problema
 CD se concentra na automação da entrega de software de forma eficiente e confiável
 
 
-8) O que é TDD, BDD e ATDD e quando são aplicadas?
+5) O que é TDD, BDD e ATDD e quando são aplicadas?
    
 Resposta:
 
@@ -206,7 +206,7 @@ para a aplicação são expressos em um formato compreensível por todos e trans
 e a qualidade do software, garantindo que atenda às necessidades dos usuários
 
  
-9) Cite uma heurística de testes utilizada para testes de front e de back e explique-as.
+6) Cite uma heurística de testes utilizada para testes de front e de back e explique-as.
     
 Resposta:
 
@@ -240,7 +240,7 @@ Estas heurísticas ajudam a garantir que tanto a interface do usuário quanto os
 de usuário de alta qualidade e mantendo a integridade do sistema.
 
 
-11) Cite ferramentas de testes automatizados para Desktop, Web, API´s e mobile
+7) Cite ferramentas de testes automatizados para Desktop, Web, API´s e mobile
     
 Resposta: 
 
